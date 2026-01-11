@@ -125,26 +125,9 @@ Clear separation observed in confusion matrix
 
 Stable convergence without severe overfitting
 
-**🗂️ Project Structure**
-Face-Mask-Detection/
-│
-├── data/
-│   ├── with_mask/
-│   └── without_mask/
-│
-├── models/
-│   ├── X_train.npy
-│   ├── X_test.npy
-│   ├── y_train.npy
-│   ├── y_test.npy
-│   ├── mask_detector_model.h5
-│   └── history.pkl
-│
-├── data_preprocessing.py
-├── train_model.py
-├── README.md
 
-▶️ How to Run the Project
+**▶️ How to Run the Project**
+
 1️⃣ Install Dependencies
 pip install tensorflow keras numpy matplotlib seaborn scikit-learn opencv-python
 
