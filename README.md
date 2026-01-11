@@ -1,4 +1,5 @@
 **Face Mask Detection using Convolutional Neural Networks (CNN)**
+
 📌 **Project Overview**
 
 This project implements a Face Mask Detection system using Deep Learning (CNN) to classify whether a person is wearing a face mask or not.
@@ -56,6 +57,7 @@ Seaborn
 Scikit-learn
 
 **🧪 Preprocessing Techniques Used**
+
 Image resizing (128×128)
 
 RGB image validation
