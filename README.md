@@ -30,13 +30,6 @@ without_mask
 
 Images are RGB and resized to 128×128
 
-Dataset stored locally in the following structure:
-
-data/
-├── with_mask/
-└── without_mask/
-
-
 📌 Dataset Source:
 https://www.kaggle.com/datasets/omkargurav/face-mask-dataset
 
